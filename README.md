@@ -1,14 +1,7 @@
 ![](https://github.com/austinbowdler/austinbowdler/blob/master/header.png)
 
 ## I'm a Full Stack Developer!!
-
-### Connect with me:
-[![Website](https://img.shields.io/website?label=austinbowdler.com&style=for-the-badge&url=https%3A%2F%2Faustinbowdler.com)](https://austinbowdler.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/austinbowdler?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=austinbowdler)
-
-
 <br />
-
 ### Languages and Tools:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -26,14 +19,9 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-
 <br />
 <br />
+### Connect with me:
 
----
 
-[website]: https://austinbowdler.com
-[twitter]: https://twitter.com/austinbowdler
-[instagram]: https://instagram.com/austinbowdler
-[linkedin]: https://www.linkedin.com/in/austin-bowdler-29a0aa121/
+
