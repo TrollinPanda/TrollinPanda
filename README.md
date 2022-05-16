@@ -1,6 +1,6 @@
 ![](https://github.com/austinbowdler/austinbowdler/blob/master/header.png)
 
-## I'm a Full Stack Developer!!
+## Full Stack Developer
 
 <br />
 
@@ -22,7 +22,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<br />
 <br />
 
 ### Connect with me:
